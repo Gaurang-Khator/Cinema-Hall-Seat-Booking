@@ -1,8 +1,9 @@
 import './App.css'
+import CinemaSeatBooking from './components/cinema-seat-booking';
 
 function App() {
   return (
-    <div>Hii</div>
+    <CinemaSeatBooking />
   )
 }
 
